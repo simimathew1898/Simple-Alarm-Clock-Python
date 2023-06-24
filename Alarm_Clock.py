@@ -38,3 +38,4 @@ while True:
   time.sleep(1)
   
 pygame.quit()
+print('Alarm Ended')
